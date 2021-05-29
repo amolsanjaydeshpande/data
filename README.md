@@ -1,2 +1,2 @@
-# datascience
+# Data Science
 Full Stack Data Science
